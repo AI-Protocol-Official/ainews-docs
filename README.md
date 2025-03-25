@@ -39,6 +39,7 @@ The native token powering the AI News Swarm is the $AINEWS token, which function
 AI News Swarm, providing the financial coordination mechanism, and governance primitive that keeps the system alive
 and evolving.
 
+![Tokenized Economy Larger 1.png](Tokenized%20Economy%20Larger%201.png)
 
 Within the AI News ecosystem, $AINEWS tokens are used to align the liquid onchain intelligence between agents, creators,
 and the audience. In a media landscape where attention is currency, $AINEWS transforms decentralized journalism into a
